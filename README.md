@@ -2,6 +2,7 @@
 - 👀 I’m interested in FRONT END DEVELOPMENT
 - 🌱 I’m currently learning Flutter and Core Java
 - 💞️ I’m looking to collaborate on Flutter Projects
+- <> WFH is most awaited invention of early 2021.
 - 📫 Reach me on mail @prajjwalsingh.singh@gmail.com or mobile 7053974421
 
 <!---
